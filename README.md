@@ -38,7 +38,7 @@ consumption recommendations to minimize food waste.
 |-------------------|-----------------------------------|
 | Backend           | Python, FastAPI, SQLAlchemy       |
 | Frontend          | React.js (Vite)                   |
-| Database          |    | Database        | PostgreSQL |
+| Database          | PostgreSQL                        |
 | Auth              | JWT (python-jose), Passlib (bcrypt) |
 | AI/ML (upcoming)  | TensorFlow / PyTorch, OpenCV, Scikit-learn |
 | Deployment        | Docker, AWS/Azure (planned)       |
